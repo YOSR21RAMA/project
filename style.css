@@ -1,0 +1,50 @@
+.free{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center;
+    align-items: center;    
+
+}
+
+.centerR{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.char{
+    margin-left: 33px;
+    font-size: 17px;
+    color: white;
+    margin-top: 12px;
+
+}
+
+#divChar{
+    margin-left: 66px;
+    /* padding: 34px; */
+    width: 120px;
+    height: 123PX;
+    background-color: aqua;
+    border-radius: 178px;
+}
+
+#ll{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 123px;
+    margin-top: 20px;
+    height: ;
+}
+#ger{
+    display: flex;
+    justify-content: center;
+    margin-left: 50px;
+}
+#foot{
+    display: flex;
+    justify-content: left;
+    margin-left: 20px;
+
+}
